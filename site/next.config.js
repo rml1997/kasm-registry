@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'rml1997',
+    description: 'Kasm workspaces provided by rml1997',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://rml1997.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/rml1997/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
